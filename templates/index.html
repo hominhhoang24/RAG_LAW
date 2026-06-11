@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html lang="vi" class="dark">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Law RAG - Hệ thống tra cứu pháp luật thông minh</title>
+    <!-- Tailwind CSS -->
+    <script src="https://cdn.tailwindcss.com"></script>
+    <!-- Custom config for tailwind -->
+    <script>
+        tailwind.config = {
+            darkMode: 'class',
+            theme: {
+                extend: {
+                    colors: {
+                        legal: {
+                            900: '#0a0a0a', 
+                            800: '#171717',
+                            700: '#262626',
+                            highlight: '#d4af37', 
+                            accent: '#1e3a8a' 
+                        }
+                    },
+                    fontFamily: {
+                        sans: ['Inter', 'sans-serif'],
+                        serif: ['Merriweather', 'serif']
+                    }
+                }
+            }
+        }
+    </script>
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700&family=Merriweather:wght@400;700&display=swap" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link rel="stylesheet" href="/static/css/style.css">
+    <!-- FontAwesome -->
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+</head>
+<body class="bg-legal-900 text-gray-200 h-screen overflow-hidden font-sans antialiased">
+    <div class="flex h-full w-full">
+        <!-- Left Panel: Chat Interface -->
+        <div class="w-full lg:w-1/2 flex flex-col h-full border-r border-legal-700 bg-legal-900 glass-effect relative z-10">
+            <!-- Header -->
+            <header class="px-6 py-4 border-b border-legal-700 bg-legal-800/80 backdrop-blur-md flex items-center justify-between shadow-sm">
+                <div class="flex items-center gap-3">
+                    <div class="w-10 h-10 rounded-full bg-legal-highlight/20 flex items-center justify-center text-legal-highlight">
+                        <i class="fa-solid fa-scale-balanced text-xl"></i>
+                    </div>
+                    <div>
+                        <h1 class="text-xl font-bold font-serif text-white tracking-wide">Law RAG Assistant</h1>
+                        <p class="text-xs text-gray-400">Trợ lý pháp lý chuyên sâu bằng AI</p>
+                    </div>
+                </div>
+                
+                <!-- Think Toggle -->
+                <div class="flex items-center gap-2">
+                    <span class="text-sm text-gray-300 font-medium">Think</span>
+                    <label class="relative inline-flex items-center cursor-pointer">
+                        <input type="checkbox" id="think-toggle" class="sr-only peer" checked>
+                        <div class="w-11 h-6 bg-legal-700 peer-focus:outline-none rounded-full peer peer-checked:after:translate-x-full peer-checked:after:border-white after:content-[''] after:absolute after:top-[2px] after:left-[2px] after:bg-white after:border-gray-300 after:border after:rounded-full after:h-5 after:w-5 after:transition-all peer-checked:bg-legal-highlight"></div>
+                    </label>
+                </div>
+            </header>
+
+            <!-- Chat History -->
+            <main id="chat-container" class="flex-1 overflow-y-auto p-6 space-y-6 custom-scrollbar scroll-smooth">
+                <!-- Initial Greeting -->
+                <div class="flex gap-4 bot-message opacity-0 slide-in" style="animation-delay: 0.1s; animation-fill-mode: forwards;">
+                    <div class="w-8 h-8 rounded-full bg-legal-highlight/20 flex items-center justify-center text-legal-highlight flex-shrink-0 mt-1">
+                        <i class="fa-solid fa-robot text-sm"></i>
+                    </div>
+                    <div class="bg-legal-800/60 p-4 rounded-2xl rounded-tl-none border border-legal-700/50 max-w-[85%] shadow-lg">
+                        <p class="text-sm leading-relaxed text-gray-200">Xin chào. Tôi là trợ lý AI chuyên về luật pháp. Tôi có thể hỗ trợ giải đáp các thắc mắc về quy định, luật hiện hành dựa trên cơ sở dữ liệu pháp luật. Bạn có câu hỏi nào hôm nay không?</p>
+                    </div>
+                </div>
+            </main>
+
+            <!-- Input Area -->
+            <footer class="p-6 bg-legal-800/80 backdrop-blur-md border-t border-legal-700">
+                <form id="chat-form" class="relative group max-w-4xl mx-auto">
+                    <textarea 
+                        id="user-input" 
+                        rows="1" 
+                        class="w-full bg-legal-900/80 border border-legal-700 text-gray-200 rounded-xl pl-4 pr-14 py-4 focus:outline-none focus:border-legal-highlight/50 focus:ring-1 focus:ring-legal-highlight/50 transition-all resize-none overflow-hidden text-sm shadow-inner" 
+                        placeholder="Nhập câu hỏi pháp lý... (Shift + Enter để xuống dòng)"
+                        required
+                    ></textarea>
+                    <button type="submit" id="send-btn" class="absolute right-3 bottom-3 w-10 h-10 rounded-lg bg-legal-highlight/10 text-legal-highlight hover:bg-legal-highlight hover:text-legal-900 transition-all flex items-center justify-center disabled:opacity-50 disabled:cursor-not-allowed">
+                        <i class="fa-solid fa-paper-plane"></i>
+                    </button>
+                </form>
+            </footer>
+        </div>
+
+        <!-- Right Panel: Context Viewer -->
+        <div class="hidden lg:flex w-1/2 h-full flex-col bg-legal-900 relative overflow-hidden">
+            <!-- Background Decoration -->
+            <div class="absolute top-[-10%] right-[-10%] w-96 h-96 bg-legal-highlight/5 rounded-full blur-[100px] pointer-events-none"></div>
+            
+            <header class="px-6 py-4 border-b border-legal-700 bg-legal-800/80 backdrop-blur-md flex justify-between items-center">
+                <div>
+                    <h2 class="text-lg font-semibold font-serif text-legal-highlight flex items-center gap-2">
+                        <i class="fa-solid fa-file-contract"></i> Nguồn Dữ Liệu Trích Lục
+                    </h2>
+                    <p class="text-xs text-gray-400 mt-1">Dữ liệu được truy xuất, đánh giá và sắp xếp bằng thuật toán RAG nâng cao.</p>
+                </div>
+            </header>
+            
+            <main id="context-container" class="flex-1 overflow-y-auto p-6 space-y-4 custom-scrollbar">
+                <!-- Empty State -->
+                <div id="context-empty-state" class="h-full flex flex-col items-center justify-center text-gray-500 opacity-50">
+                    <div class="w-20 h-20 bg-legal-800 rounded-full flex items-center justify-center mb-6 border border-legal-700">
+                        <i class="fa-solid fa-magnifying-glass-chart text-3xl"></i>
+                    </div>
+                    <p class="text-sm font-medium">Chưa có dữ liệu trích lục.</p>
+                    <p class="text-xs mt-2">Hãy đặt câu hỏi ở khung chat bên trái để tìm kiếm tài liệu liên quan.</p>
+                </div>
+                
+                <!-- Dynamic Content Will Be Rendered Here -->
+            </main>
+        </div>
+    </div>
+
+    <!-- Scripts -->
+    <script src="https://cdn.jsdelivr.net/npm/marked/marked.min.js"></script>
+    <script src="/static/js/main.js"></script>
+</body>
+</html>

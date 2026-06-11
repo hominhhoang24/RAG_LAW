@@ -1,0 +1,2402 @@
+[
+  {
+    "id": "Q001",
+    "query": "Kiểm toán Nhà nước được phép sử dụng kinh phí trích cho chế độ ưu tiên để đầu tư cho những gì?",
+    "category": "Câu hỏi tổng hợp",
+    "task_type": "diverse",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Tài chính",
+      "doc_type": "Thông tư",
+      "sign_number": "16/2019/TT-BTC"
+    }
+  },
+  {
+    "id": "Q002",
+    "query": "Tóm tắt nội dung của Điều 22 Thông tư 13/2018/TT-NHNN kiểm soát nội bộ ngân hàng thương mại chi nhánh ngân hàng nước ngoài mới nhất",
+    "category": "Tóm tắt văn bản",
+    "task_type": "summary",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Ngân hàng Nhà nước Việt Nam",
+      "doc_type": "Thông tư",
+      "sign_number": "13/2018/TT-NHNN"
+    }
+  },
+  {
+    "id": "Q003",
+    "query": "Tôi muốn biết khi nào thì Vụ, đơn vị chủ trì soạn thảo cần phải xin ý kiến của Lãnh đạo Ủy ban Dân tộc?",
+    "category": "Suy luận pháp lý",
+    "task_type": "legal_syllogism",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Uỷ ban Dân tộc",
+      "doc_type": "Thông tư",
+      "sign_number": "02/2014/TT-UBDT"
+    }
+  },
+  {
+    "id": "Q004",
+    "query": "Ai là những người có trách nhiệm thực hiện Thông tư 77/2011/TT-BNNPTNT về thuốc thú y?",
+    "category": "Liệt kê quy định",
+    "task_type": "listing",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Nông nghiệp và Phát triển nông thôn",
+      "doc_type": "Thông tư",
+      "sign_number": "77/2011/TT-BNNPTNT"
+    }
+  },
+  {
+    "id": "Q005",
+    "query": "Làm sao để biết được kế hoạch bay của một chuyến bay cụ thể?",
+    "category": "Hỏi cách thức / quy trình",
+    "task_type": "how",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Giao thông vận tải",
+      "doc_type": "Thông tư",
+      "sign_number": "19/2017/TT-BGTVT"
+    }
+  },
+  {
+    "id": "Q006",
+    "query": "Công ty nào được áp dụng mức lương tối thiểu vùng theo Thông tư 35/2009/TT-BLĐTBXH?",
+    "category": "Liệt kê quy định",
+    "task_type": "listing",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Lao động – Thương binh và Xã hội",
+      "doc_type": "Thông tư",
+      "sign_number": "35/2009/TT-BLĐTBXH"
+    }
+  },
+  {
+    "id": "Q007",
+    "query": "Tóm tắt nội dung của Điều 4 Thông tư 48/2012/TT-BNNPTNT quy định chứng nhận sản phẩm thủy sản trồng trọt mới nhất",
+    "category": "Tóm tắt văn bản",
+    "task_type": "summary",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Nông nghiệp và Phát triển nông thôn",
+      "doc_type": "Thông tư",
+      "sign_number": "48/2012/TT-BNNPTNT"
+    }
+  },
+  {
+    "id": "Q008",
+    "query": "Tóm tắt nội dung của Điều 14 Thông tư 14/2017/TT-BLĐTBXH xây dựng thẩm định ban hành định mức kinh tế kỹ thuật đào tạo nghề",
+    "category": "Tóm tắt văn bản",
+    "task_type": "summary",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Lao động - Thương binh và Xã hội",
+      "doc_type": "Thông tư",
+      "sign_number": "14/2017/TT-BLĐTBXH"
+    }
+  },
+  {
+    "id": "Q009",
+    "query": "Mình đang muốn mở một công ty mà tên công ty lại trùng với tên công ty của một người bạn. Vậy mình có thể làm gì để không bị trùng tên?",
+    "category": "Suy luận ngôn ngữ tự nhiên",
+    "task_type": "NLI",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Kế hoạch và Đầu tư",
+      "doc_type": "Thông tư",
+      "sign_number": "14/2010/TT-BKH"
+    }
+  },
+  {
+    "id": "Q010",
+    "query": "Tôi đang muốn ký kết hợp đồng chiết khấu công cụ chuyển nhượng với ngân hàng. Vậy liệu hợp đồng ký kết trước ngày 1 tháng 5 năm 2013 có còn hiệu lực không?",
+    "category": "Suy luận pháp lý",
+    "task_type": "legal_syllogism",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Ngân hàng Nhà nước",
+      "doc_type": "Thông tư",
+      "sign_number": "04/2013/TT-NHNN"
+    }
+  },
+  {
+    "id": "Q011",
+    "query": "Tôi nghe nói các cơ quan nhà nước phải sử dụng dữ liệu đặc tả, vậy ai là người chịu trách nhiệm hướng dẫn việc này?",
+    "category": "Câu hỏi tổng hợp",
+    "task_type": "diverse",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Thông tin và Truyền thông",
+      "doc_type": "Thông tư",
+      "sign_number": "24/2011/TT-BTTTT"
+    }
+  },
+  {
+    "id": "Q012",
+    "query": "Tôi nghe nói rằng nhà nước có hỗ trợ chi phí mai táng cho những người có đóng góp lớn cho nghệ thuật. Vậy cụ thể ai được hỗ trợ và mức hỗ trợ là bao nhiêu?",
+    "category": "Câu hỏi tổng hợp",
+    "task_type": "diverse",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Chính phủ",
+      "doc_type": "Nghị định",
+      "sign_number": "109/2015/NĐ-CP"
+    }
+  },
+  {
+    "id": "Q013",
+    "query": "Nếu tôi là một doanh nghiệp muốn tham gia vào hoạt động của Quỹ Đổi mới công nghệ quốc gia, tôi có phải tuân theo Thông tư này không?",
+    "category": "Câu hỏi đúng/sai",
+    "task_type": "yes_no",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Khoa học và Công nghệ",
+      "doc_type": "Thông tư",
+      "sign_number": "07/2021/TT-BKHCN"
+    }
+  },
+  {
+    "id": "Q014",
+    "query": "Việc quy định mã số, tiêu chuẩn chức danh nghề nghiệp và xếp lương cho viên chức chuyên ngành thư viện được áp dụng ở đâu?",
+    "category": "Hỏi phạm vi áp dụng",
+    "task_type": "where",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Văn hoá, Thể thao và du lịch",
+      "doc_type": "Thông tư",
+      "sign_number": "02/2022/TT-BVHTTDL"
+    }
+  },
+  {
+    "id": "Q015",
+    "query": "Ai là những người được áp dụng Thông tư 05/2021/TT-BVHTTDL về trang thiết bị tập huấn cho huấn luyện viên đội tuyển quốc gia?",
+    "category": "Câu hỏi tổng hợp",
+    "task_type": "diverse",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Văn hoá, Thể thao và du lịch",
+      "doc_type": "Thông tư",
+      "sign_number": "05/2021/TT-BVHTTDL"
+    }
+  },
+  {
+    "id": "Q016",
+    "query": "Tôi muốn mở một trường mầm non tại Việt Nam và muốn hợp tác với một nhà đầu tư nước ngoài. Liệu tôi có cần phải tuân theo các quy định về đầu tư nước ngoài trong giáo dục hay không?",
+    "category": "Câu hỏi đúng/sai",
+    "task_type": "yes_no",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Giáo dục và Đào tạo",
+      "doc_type": "Thông tư",
+      "sign_number": "04/2020/TT-BGDĐT"
+    }
+  },
+  {
+    "id": "Q017",
+    "query": "Làm sao để biết được thiết bị di động của mình có đáp ứng tiêu chuẩn kỹ thuật của Việt Nam hay không?",
+    "category": "Hỏi cách thức / quy trình",
+    "task_type": "how",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Thông tin và Truyền thông",
+      "doc_type": "Thông tư",
+      "sign_number": "43/2020/TT-BTTTT"
+    }
+  },
+  {
+    "id": "Q018",
+    "query": "Mình muốn hỏi là, ngân hàng thương mại phải báo cáo về hệ thống kiểm soát nội bộ của họ với Ngân hàng Nhà nước như thế nào?",
+    "category": "Suy luận pháp lý",
+    "task_type": "legal_syllogism",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Ngân hàng Nhà nước Việt Nam",
+      "doc_type": "Thông tư",
+      "sign_number": "13/2018/TT-NHNN"
+    }
+  },
+  {
+    "id": "Q019",
+    "query": "Tóm tắt nội dung của Điều 5 Thông tư 32/2016/TT-NHNN sửa đổi 23/2014/TT-NHNN mở sử dụng tài khoản thanh toán tổ chức thanh toán",
+    "category": "Tóm tắt văn bản",
+    "task_type": "summary",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Ngân hàng Nhà nước",
+      "doc_type": "Thông tư",
+      "sign_number": "32/2016/TT-NHNN"
+    }
+  },
+  {
+    "id": "Q020",
+    "query": "Nếu địa phương muốn mua sắm thêm loa, đài, micro cho nhà văn hóa thì có thể sử dụng nguồn kinh phí nào?",
+    "category": "Lý luận thông thường",
+    "task_type": "common_reasoning",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Tài chính",
+      "doc_type": "Thông tư",
+      "sign_number": "43/2017/TT-BTC"
+    }
+  },
+  {
+    "id": "Q021",
+    "query": "Tóm tắt nội dung của Điều 7 Thông tư 26/2013/TT-BTTTT quy hoạch sử dụng kênh tần số truyền hình mặt đất băng tần UHF đến 2020",
+    "category": "Tóm tắt văn bản",
+    "task_type": "summary",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Thông tin và Truyền thông",
+      "doc_type": "Thông tư",
+      "sign_number": "26/2013/TT-BTTTT"
+    }
+  },
+  {
+    "id": "Q022",
+    "query": "Chào luật sư, tôi muốn hợp tác với đối tác nước ngoài để thực hiện một dự án nghiên cứu khoa học.  Vậy tôi cần đáp ứng những điều kiện gì để dự án được phê duyệt?",
+    "category": "Liệt kê quy định",
+    "task_type": "listing",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Khoa học và Công nghệ",
+      "doc_type": "Thông tư",
+      "sign_number": "08/2015/TT-BKHCN"
+    }
+  },
+  {
+    "id": "Q023",
+    "query": "Mình muốn biết là ai phải báo cáo về hoạt động tiêm chủng trong chương trình tiêm chủng mở rộng và thời hạn báo cáo là bao lâu?",
+    "category": "Hỏi định nghĩa / nội dung",
+    "task_type": "what",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Y tế",
+      "doc_type": "Thông tư",
+      "sign_number": "34/2018/TT-BYT"
+    }
+  },
+  {
+    "id": "Q024",
+    "query": "Tôi muốn tìm hiểu về tiêu chuẩn kỹ thuật dành cho dịch vụ truyền hình tương tác (IPTV) trên mạng viễn thông cố định. Vậy tiêu chuẩn này được quy định ở đâu?",
+    "category": "Hỏi phạm vi áp dụng",
+    "task_type": "where",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Thông tin và Truyền thông",
+      "doc_type": "Thông tư",
+      "sign_number": "08/2014/TT-BTTTT"
+    }
+  },
+  {
+    "id": "Q025",
+    "query": "Mình muốn hợp tác nghiên cứu với một đơn vị khác, vậy mình cần ký kết loại văn bản nào để đảm bảo quyền lợi và trách nhiệm của cả hai bên?",
+    "category": "Lý luận thông thường",
+    "task_type": "common_reasoning",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Khoa học và Công nghệ",
+      "doc_type": "Thông tư",
+      "sign_number": "07/2013/TT-BKHCN"
+    }
+  },
+  {
+    "id": "Q026",
+    "query": "Tóm tắt nội dung của Điều 27 Thông tư 01/2018/TT-TANDTC quy định công tác thi đua khen thưởng của Tòa án nhân dân mới nhất",
+    "category": "Tóm tắt văn bản",
+    "task_type": "summary",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Tòa án nhân dân tối cao",
+      "doc_type": "Thông tư",
+      "sign_number": "01/2018/TT-TANDTC"
+    }
+  },
+  {
+    "id": "Q027",
+    "query": "Khiếu nại dịch vụ đã được bên cung cấp dịch vụ giải quyết thì cơ quan tiếp nhận đơn đề nghị hướng dẫn giải quyết tranh chấp có yêu cầu người sử dụng dịch vụ cung cấp thông tin liên quan đến vụ việc khiếu nại không?",
+    "category": "Câu hỏi đúng/sai",
+    "task_type": "yes_no",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Thông tin và Truyền thông",
+      "doc_type": "Thông tư",
+      "sign_number": "05/2011/TT-BTTTT"
+    }
+  },
+  {
+    "id": "Q028",
+    "query": "Tôi muốn biết rõ vai trò của các tổ chức xã hội trong việc thúc đẩy phong trào thi đua. Liệu họ có quyền tự tổ chức thi đua hay chỉ hỗ trợ các cơ quan nhà nước?",
+    "category": "Suy luận ngôn ngữ tự nhiên",
+    "task_type": "NLI",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Nội vụ",
+      "doc_type": "Thông tư",
+      "sign_number": "1/2024/TT-BNV"
+    }
+  },
+  {
+    "id": "Q029",
+    "query": "Nếu tôi đi khiếu nại lên Ủy ban Dân tộc, liệu tôi có được hưởng bất kỳ chế độ, chính sách nào không?",
+    "category": "Lý luận thông thường",
+    "task_type": "common_reasoning",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Uỷ ban Dân tộc",
+      "doc_type": "Thông tư",
+      "sign_number": "01/2015/TT-UBDT"
+    }
+  },
+  {
+    "id": "Q030",
+    "query": "Tôi muốn mở công ty, nhưng tôi không biết phải làm gì để đăng ký. Anh có thể cho tôi biết thông tin về hồ sơ và thủ tục đăng ký doanh nghiệp không?",
+    "category": "Lý luận thông thường",
+    "task_type": "common_reasoning",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Kế hoạch và Đầu tư",
+      "doc_type": "Thông tư",
+      "sign_number": "14/2010/TT-BKH"
+    }
+  },
+  {
+    "id": "Q031",
+    "query": "Mình muốn chuyển nhà từ tàu thuyền lên bờ, nhưng vẫn muốn giữ nơi ở trên tàu thuyền cho những lần đi biển sau. Vậy mình cần làm gì để đăng ký chỗ ở trên tàu thuyền?",
+    "category": "Hỏi cách thức / quy trình",
+    "task_type": "how",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Chính phủ",
+      "doc_type": "Nghị định",
+      "sign_number": "62/2021/NĐ-CP"
+    }
+  },
+  {
+    "id": "Q032",
+    "query": "Tôi muốn biết ai có trách nhiệm thực hiện Thông tư này?",
+    "category": "Liệt kê quy định",
+    "task_type": "listing",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Xây dựng",
+      "doc_type": "Thông tư",
+      "sign_number": "15/2014/TT-BXD"
+    }
+  },
+  {
+    "id": "Q033",
+    "query": "Em làm việc ở một cơ quan thuộc Bộ Văn hóa, Thể thao và Du lịch. Em có phải tuân thủ Thông tư 14/2010/TT-BVHTTDL khi thực hiện công tác kiểm tra, xử lý văn bản quy phạm pháp luật trong lĩnh vực văn hóa, gia đình, thể dục, thể thao và du lịch không?",
+    "category": "Suy luận pháp lý",
+    "task_type": "legal_syllogism",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Văn hoá, Thể thao và du lịch",
+      "doc_type": "Thông tư",
+      "sign_number": "14/2010/TT-BVHTTDL"
+    }
+  },
+  {
+    "id": "Q034",
+    "query": "Nếu tàu bị tắc đường, liệu hành khách có quyền yêu cầu hoàn trả toàn bộ tiền vé đã mua hay không?",
+    "category": "Câu hỏi đúng/sai",
+    "task_type": "yes_no",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Giao thông vận tải",
+      "doc_type": "Thông tư",
+      "sign_number": "09/2018/TT-BGTVT"
+    }
+  },
+  {
+    "id": "Q035",
+    "query": "Làm sao để biết được ai cần phải đăng ký kế hoạch sản xuất hoặc nhập khẩu xăng dầu?",
+    "category": "Hỏi cách thức / quy trình",
+    "task_type": "how",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Công thương",
+      "doc_type": "Thông tư",
+      "sign_number": "26/2010/TT-BCT"
+    }
+  },
+  {
+    "id": "Q036",
+    "query": "Làm sao để Sở Tư pháp có thể dự đoán được bao nhiêu tổ chức sẽ ký hợp đồng để thực hiện trợ giúp pháp lý?",
+    "category": "Hỏi cách thức / quy trình",
+    "task_type": "how",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Tư pháp",
+      "doc_type": "Thông tư",
+      "sign_number": "08/2017/TT-BTP"
+    }
+  },
+  {
+    "id": "Q037",
+    "query": "Tôi nghe nói có một loại huy chương dành cho người làm công tác thanh tra. Vậy những người nào không được nhận huy chương này?",
+    "category": "Hỏi định nghĩa / nội dung",
+    "task_type": "what",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Thanh tra Chính phủ",
+      "doc_type": "Thông tư",
+      "sign_number": "01/2017/TT-TTCP"
+    }
+  },
+  {
+    "id": "Q038",
+    "query": "Khi làm quy hoạch, những hoạt động gián tiếp nào được phép chi tiêu theo Thông tư 08/2019/TT-BKHĐT?",
+    "category": "Liệt kê quy định",
+    "task_type": "listing",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Kế hoạch và Đầu tư",
+      "doc_type": "Thông tư",
+      "sign_number": "08/2019/TT-BKHĐT"
+    }
+  },
+  {
+    "id": "Q039",
+    "query": "Làm thế nào để một phòng thí nghiệm chuyên ngành xây dựng có thể hoạt động hợp pháp?",
+    "category": "Hỏi cách thức / quy trình",
+    "task_type": "how",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Xây dựng",
+      "doc_type": "Thông tư",
+      "sign_number": "06/2017/TT-BXD"
+    }
+  },
+  {
+    "id": "Q040",
+    "query": "Thông tư 16/2017/TT-BTNMT có liên quan đến việc đánh giá hiện trạng khai thác và sử dụng tài nguyên nước không?",
+    "category": "Câu hỏi đúng/sai",
+    "task_type": "yes_no",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Tài nguyên và Môi trường",
+      "doc_type": "Thông tư",
+      "sign_number": "16/2017/TT-BTNMT"
+    }
+  },
+  {
+    "id": "Q041",
+    "query": "Tóm tắt nội dung của Điều 15 Thông tư 01/2010/TT-BNG hướng dẫn sử dụng biểu tượng quốc gia mới nhất",
+    "category": "Tóm tắt văn bản",
+    "task_type": "summary",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Ngoại giao",
+      "doc_type": "Thông tư",
+      "sign_number": "01/2010/TT-BNG"
+    }
+  },
+  {
+    "id": "Q042",
+    "query": "Nếu một văn bản pháp luật mà Thông tư này đang dẫn chiếu bị thay đổi, thì mình phải làm sao để biết được nội dung sửa đổi?",
+    "category": "Câu hỏi tổng hợp",
+    "task_type": "diverse",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Y tế",
+      "doc_type": "Thông tư",
+      "sign_number": "40/2010/TT-BYT"
+    }
+  },
+  {
+    "id": "Q043",
+    "query": "Người nước ngoài có thể kinh doanh giống lúa tại Việt Nam không?",
+    "category": "Câu hỏi đúng/sai",
+    "task_type": "yes_no",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Nông nghiệp và Phát triển nông thôn",
+      "doc_type": "Thông tư",
+      "sign_number": "42/2009/TT-BNNPTNT"
+    }
+  },
+  {
+    "id": "Q044",
+    "query": "Tôi muốn biết rõ hơn về việc quản lý và bảo đảm hoạt động bay. Có chỗ nào quy định cụ thể về vấn đề này không?",
+    "category": "Hỏi phạm vi áp dụng",
+    "task_type": "where",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Giao thông vận tải",
+      "doc_type": "Thông tư",
+      "sign_number": "19/2017/TT-BGTVT"
+    }
+  },
+  {
+    "id": "Q045",
+    "query": "Công ty Việt Nam nhập khẩu một máy móc sản xuất từ nước ngoài. Hợp đồng bao gồm giá trị của máy móc và dịch vụ lắp đặt, bảo hành, bảo dưỡng. Vậy công ty nước ngoài phải nộp thuế GTGT như thế nào?",
+    "category": "Suy luận pháp lý",
+    "task_type": "legal_syllogism",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Tài chính",
+      "doc_type": "Thông tư",
+      "sign_number": "103/2014/TT-BTC"
+    }
+  },
+  {
+    "id": "Q046",
+    "query": "Mình muốn thuê một phần của một công trình hạ tầng kỹ thuật mới xây dựng, liệu mình có thể yêu cầu thêm các điều khoản khác vào hợp đồng không?",
+    "category": "Câu hỏi đúng/sai",
+    "task_type": "yes_no",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Xây dựng",
+      "doc_type": "Thông tư",
+      "sign_number": "03/2013/TT-BXD"
+    }
+  },
+  {
+    "id": "Q047",
+    "query": "Mình muốn hỏi là tiền thưởng cho những người được khen thưởng bởi Chủ tịch nước thì được lấy từ đâu vậy?",
+    "category": "Suy luận pháp lý",
+    "task_type": "legal_syllogism",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Chính phủ",
+      "doc_type": "Nghị định",
+      "sign_number": "42/2010/NĐ-CP"
+    }
+  },
+  {
+    "id": "Q048",
+    "query": "Mình muốn thay đổi một số điều khoản trong việc phát hành trái phiếu quốc tế của công ty mình. Mình cần phải chuẩn bị những giấy tờ gì để đăng ký thay đổi?",
+    "category": "Suy luận ngôn ngữ tự nhiên",
+    "task_type": "NLI",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Ngân hàng Nhà nước Việt Nam",
+      "doc_type": "Thông tư",
+      "sign_number": "10/2022/TT-NHNN"
+    }
+  },
+  {
+    "id": "Q049",
+    "query": "Tôi muốn tìm hiểu về những loại thiết bị gia dụng tiết kiệm nước. Tôi có thể tìm hiểu ở đâu?",
+    "category": "Câu hỏi tổng hợp",
+    "task_type": "diverse",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Khoa học và Công nghệ",
+      "doc_type": "Thông tư",
+      "sign_number": "12/2019/TT-BKHCN"
+    }
+  },
+  {
+    "id": "Q050",
+    "query": "Anh/chị cho em hỏi, ngoài việc được tặng bằng khen của Thủ tướng Chính phủ, Bộ Lao động - Thương binh và Xã hội còn có thể đề nghị cấp trên trao tặng những phần thưởng nào khác cho cá nhân hoặc tập thể có thành tích xuất sắc trong ngành?",
+    "category": "Suy luận pháp lý",
+    "task_type": "legal_syllogism",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Lao động - Thương binh và Xã hội",
+      "doc_type": "Thông tư",
+      "sign_number": "30/2014/TT-BLĐTBXH"
+    }
+  },
+  {
+    "id": "Q051",
+    "query": "Nếu trong một cơ quan, tổ chức, đơn vị xảy ra tham nhũng, làm sao để xác định rõ người đứng đầu có liên quan hay không và mức độ trách nhiệm của họ?",
+    "category": "Hỏi cách thức / quy trình",
+    "task_type": "how",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Chính phủ",
+      "doc_type": "Nghị định",
+      "sign_number": "107/2006/NĐ-CP"
+    }
+  },
+  {
+    "id": "Q052",
+    "query": "Nếu một người bị tạm đình chỉ công tác vì nghi ngờ tham nhũng nhưng sau đó được cơ quan điều tra xác định không có hành vi tham nhũng thì người đó có được khôi phục lại vị trí công tác cũ không?",
+    "category": "Câu hỏi đúng/sai",
+    "task_type": "yes_no",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Chính phủ",
+      "doc_type": "Nghị định",
+      "sign_number": "59/2019/NĐ-CP"
+    }
+  },
+  {
+    "id": "Q053",
+    "query": "Tóm tắt nội dung của Điều 24 Thông tư 02/2014/TT-UBDT thủ tục soạn thảo thẩm định ban hành văn bản quy phạm Ủy ban Dân tộc",
+    "category": "Tóm tắt văn bản",
+    "task_type": "summary",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Uỷ ban Dân tộc",
+      "doc_type": "Thông tư",
+      "sign_number": "02/2014/TT-UBDT"
+    }
+  },
+  {
+    "id": "Q054",
+    "query": "Nếu tàu của tôi bị bắt giữ, tôi phải làm gì để bảo vệ tài sản và hàng hóa trên tàu?",
+    "category": "Lý luận thông thường",
+    "task_type": "common_reasoning",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Chính phủ",
+      "doc_type": "Nghị định",
+      "sign_number": "57/2010/NĐ-CP"
+    }
+  },
+  {
+    "id": "Q055",
+    "query": "Vụ Thanh toán có vai trò gì trong việc quản lý vận hành sử dụng Hệ thống thanh toán điện tử liên ngân hàng quốc gia?",
+    "category": "Suy luận pháp lý",
+    "task_type": "legal_syllogism",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Ngân hàng Nhà nước",
+      "doc_type": "Thông tư",
+      "sign_number": "37/2016/TT-NHNN"
+    }
+  },
+  {
+    "id": "Q056",
+    "query": "Tôi muốn mở một cơ sở kinh doanh billiards & snooker. Vậy tôi cần phải đáp ứng những yêu cầu gì về cơ sở vật chất và trang thiết bị?",
+    "category": "Liệt kê quy định",
+    "task_type": "listing",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Văn hoá, Thể thao và du lịch",
+      "doc_type": "Thông tư",
+      "sign_number": "15/2010/TT-BVHTTDL"
+    }
+  },
+  {
+    "id": "Q057",
+    "query": "Khi giám sát các bệnh lây truyền qua đường tình dục, mình phải báo cáo như thế nào? Mình có thể báo cáo theo nguyên nhân hoặc triệu chứng được không?",
+    "category": "Liệt kê quy định",
+    "task_type": "listing",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Y tế",
+      "doc_type": "Thông tư",
+      "sign_number": "09/2012/TT-BYT"
+    }
+  },
+  {
+    "id": "Q058",
+    "query": "Tóm tắt nội dung của Điều 6 Nghị định 151/2018/NĐ-CP sửa đổi Nghị định quy định về điều kiện đầu tư thuộc Bộ Tài chính mới nhất",
+    "category": "Tóm tắt văn bản",
+    "task_type": "summary",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Chính phủ",
+      "doc_type": "Nghị định",
+      "sign_number": "151/2018/NĐ-CP"
+    }
+  },
+  {
+    "id": "Q059",
+    "query": "Mình đang muốn thành lập một công ty chuyên sản xuất vũ khí. Liệu công ty mình có được xem là doanh nghiệp quốc phòng và được áp dụng quy định của Thông tư 65/2018/TT-BQP về khấu hao tài sản cố định không?",
+    "category": "Suy luận ngôn ngữ tự nhiên",
+    "task_type": "NLI",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Quốc phòng",
+      "doc_type": "Thông tư",
+      "sign_number": "65/2018/TT-BQP"
+    }
+  },
+  {
+    "id": "Q060",
+    "query": "Làm sao để biết hành vi nào được xem là gian lận thương mại trong việc sử dụng hóa đơn?",
+    "category": "Hỏi định nghĩa / nội dung",
+    "task_type": "what",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Tài chính",
+      "doc_type": "Thông tư",
+      "sign_number": "07/2017/TT-BTC"
+    }
+  },
+  {
+    "id": "Q061",
+    "query": "Khi đường dây điện bị sự cố, nhân viên vận hành cần phải báo cáo những thông tin gì?",
+    "category": "Hỏi định nghĩa / nội dung",
+    "task_type": "what",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Công thương",
+      "doc_type": "Thông tư",
+      "sign_number": "28/2014/TT-BCT"
+    }
+  },
+  {
+    "id": "Q062",
+    "query": "Mùa mưa sắp đến, công ty đường sắt có trách nhiệm gì để bảo vệ hệ thống đường sắt khỏi bị ảnh hưởng bởi mưa lũ?",
+    "category": "Suy luận pháp lý",
+    "task_type": "legal_syllogism",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Giao thông vận tải",
+      "doc_type": "Thông tư",
+      "sign_number": "01/2010/TT-BGTVT"
+    }
+  },
+  {
+    "id": "Q063",
+    "query": "Tôi muốn kinh doanh một loại hàng hóa mới. Không biết hàng hóa của tôi có nằm trong danh mục hàng hóa có khả năng gây mất an toàn không?",
+    "category": "Hỏi định nghĩa / nội dung",
+    "task_type": "what",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Thông tin và Truyền thông",
+      "doc_type": "Thông tư",
+      "sign_number": "05/2019/TT-BTTTT"
+    }
+  },
+  {
+    "id": "Q064",
+    "query": "Làm thế nào để dự án sản xuất sản phẩm mới có thể được xem xét để nhận hỗ trợ từ Quỹ công nghệ?",
+    "category": "Hỏi cách thức / quy trình",
+    "task_type": "how",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Khoa học và Công nghệ",
+      "doc_type": "Thông tư",
+      "sign_number": "06/2014/TT-BKHCN"
+    }
+  },
+  {
+    "id": "Q065",
+    "query": "Tóm tắt nội dung của Điều 8 Thông tư 32/2010/TT-BLĐTBXH hướng dẫn Nghị định 127/2008/ND-CP",
+    "category": "Tóm tắt văn bản",
+    "task_type": "summary",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Lao động – Thương binh và Xã hội",
+      "doc_type": "Thông tư",
+      "sign_number": "32/2010/TT-BLĐTBXH"
+    }
+  },
+  {
+    "id": "Q066",
+    "query": "Tóm tắt nội dung của Điều 8 Thông tư 42/2013/TT-BTNMT hướng dẫn thẩm định điều kiện dịch vụ quan trắc môi trường",
+    "category": "Tóm tắt văn bản",
+    "task_type": "summary",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Tài nguyên môi trường",
+      "doc_type": "Thông tư",
+      "sign_number": "42/2013/TT-BTNMT"
+    }
+  },
+  {
+    "id": "Q067",
+    "query": "Tóm tắt nội dung của Điều 1 Thông tư 72/2015/TT-BGTVT quy chuẩn kỹ thuật quốc gia phân cấp đóng sàn nâng tàu mới nhất",
+    "category": "Tóm tắt văn bản",
+    "task_type": "summary",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Giao thông vận tải",
+      "doc_type": "Thông tư",
+      "sign_number": "72/2015/TT-BGTVT"
+    }
+  },
+  {
+    "id": "Q068",
+    "query": "Làm sao để một tập thể trong ngành y tế được công nhận là “Tập thể lao động xuất sắc”?",
+    "category": "Hỏi cách thức / quy trình",
+    "task_type": "how",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Y tế",
+      "doc_type": "Thông tư",
+      "sign_number": "38/2018/TT-BYT"
+    }
+  },
+  {
+    "id": "Q069",
+    "query": "Làm sao để biết được người tiếp nhận đơn khiếu nại, tố cáo, kiến nghị, phản ánh của tôi được hưởng những chế độ, chính sách gì?",
+    "category": "Hỏi cách thức / quy trình",
+    "task_type": "how",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Uỷ ban Dân tộc",
+      "doc_type": "Thông tư",
+      "sign_number": "01/2015/TT-UBDT"
+    }
+  },
+  {
+    "id": "Q070",
+    "query": "Tôi đang muốn thực hiện một dự án nghiên cứu khoa học mới. Dự án của tôi sẽ giúp nâng cao hiệu quả sản xuất của một nhà máy sản xuất đồ gia dụng. Liệu dự án của tôi có thể được xem là Dự án KH&CN theo quy định của Thông tư 11/2013/TT-BKHCN?",
+    "category": "Suy luận pháp lý",
+    "task_type": "legal_syllogism",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Khoa học và Công nghệ",
+      "doc_type": "Thông tư",
+      "sign_number": "11/2013/TT-BKHCN"
+    }
+  },
+  {
+    "id": "Q071",
+    "query": "Giá cổ phiếu có thể tăng giảm bao nhiêu mỗi ngày?",
+    "category": "Hỏi cách thức / quy trình",
+    "task_type": "how",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Tài chính",
+      "doc_type": "Thông tư",
+      "sign_number": "74/2011/TT-BTC"
+    }
+  },
+  {
+    "id": "Q072",
+    "query": "Chắc hẳn cơ quan pháp chế sẽ tham gia vào quá trình soạn thảo văn bản pháp luật đúng không? Vậy cụ thể họ sẽ làm gì trong giai đoạn này?",
+    "category": "Liệt kê quy định",
+    "task_type": "listing",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Tư pháp",
+      "doc_type": "Thông tư",
+      "sign_number": "01/2015/TT-BTP"
+    }
+  },
+  {
+    "id": "Q073",
+    "query": "Tôi muốn hỏi về những loại khí được đề cập trong thông tư này. Liệt kê giúp tôi những loại khí đó là gì?",
+    "category": "Liệt kê quy định",
+    "task_type": "listing",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Tài chính",
+      "doc_type": "Thông tư",
+      "sign_number": "69/2016/TT-BTC"
+    }
+  },
+  {
+    "id": "Q074",
+    "query": "Tôi nghe nói là quân đội có chính sách hỗ trợ cán bộ, nhân viên về nhà ở. Tôi đang công tác ở vị trí chỉ huy quản lý và muốn tìm hiểu cách tính điểm để được ưu tiên hỗ trợ.  Bạn có thể cho tôi biết các tiêu chí nào được tính điểm và điểm được tính như thế nào?",
+    "category": "Lý luận thông thường",
+    "task_type": "common_reasoning",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Quốc phòng",
+      "doc_type": "Thông tư",
+      "sign_number": "177/2011/TT-BQP"
+    }
+  },
+  {
+    "id": "Q075",
+    "query": "Tôi muốn xây dựng một bản đồ địa hình cho khu vực của mình, nhưng không biết hệ thống tọa độ và độ cao nào được sử dụng. Anh/chị có thể cho tôi biết thông tin về điều này?",
+    "category": "Suy luận pháp lý",
+    "task_type": "legal_syllogism",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Tài nguyên và Môi trường",
+      "doc_type": "Thông tư",
+      "sign_number": "68/2015/TT-BTNMT"
+    }
+  },
+  {
+    "id": "Q076",
+    "query": "Tôi muốn biết cơ quan nào chịu trách nhiệm hướng dẫn việc sử dụng các loại thuốc bảo vệ thực vật hạn chế sử dụng ở Việt Nam?",
+    "category": "Hỏi phạm vi áp dụng",
+    "task_type": "where",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Nông nghiệp và Phát triển nông thôn",
+      "doc_type": "Thông tư",
+      "sign_number": "10/2012/TT-BNNPTNT"
+    }
+  },
+  {
+    "id": "Q077",
+    "query": "Tóm tắt nội dung của Điều 15 Thông tư 56/2015/TT-BLĐTBXH xây dựng thẩm định công bố tiêu chuẩn kỹ năng nghề quốc gia mới nhất",
+    "category": "Tóm tắt văn bản",
+    "task_type": "summary",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Lao động thương binh và Xã hội",
+      "doc_type": "Thông tư",
+      "sign_number": "56/2015/TT-BLĐTBXH"
+    }
+  },
+  {
+    "id": "Q078",
+    "query": "Nếu tôi bị thiệt hại do hành vi trái pháp luật của một cán bộ công chức, tôi muốn được bồi thường, vậy tòa án sẽ đưa ra những quyết định gì trong bản án?",
+    "category": "Suy luận ngôn ngữ tự nhiên",
+    "task_type": "NLI",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Tòa án nhân dân tối cao",
+      "doc_type": "Thông tư",
+      "sign_number": "02/2023/TT-TANDTC"
+    }
+  },
+  {
+    "id": "Q079",
+    "query": "Ngoài người già và người khuyết tật, cộng tác viên công tác xã hội cấp xã còn hỗ trợ những ai nữa?",
+    "category": "Liệt kê quy định",
+    "task_type": "listing",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Lao động - Thương binh và Xã hội",
+      "doc_type": "Thông tư",
+      "sign_number": "07/2013/TT-BLĐTBXH"
+    }
+  },
+  {
+    "id": "Q080",
+    "query": "Người nước ngoài làm việc tại Việt Nam có phải đóng thuế thu nhập cá nhân không?",
+    "category": "Câu hỏi đúng/sai",
+    "task_type": "yes_no",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Ngoại giao",
+      "doc_type": "Thông tư",
+      "sign_number": "05/2012/TT-BNG"
+    }
+  },
+  {
+    "id": "Q081",
+    "query": "Tôi muốn xuất khẩu hàng hóa sang một nước, nhưng tôi không biết mình cần phải làm gì để được hưởng ưu đãi thuế.  Có thể cho tôi biết ai là đối tượng được áp dụng biểu thuế xuất khẩu ưu đãi không?",
+    "category": "Lý luận thông thường",
+    "task_type": "common_reasoning",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Chính phủ",
+      "doc_type": "Nghị định",
+      "sign_number": "57/2019/NĐ-CP"
+    }
+  },
+  {
+    "id": "Q082",
+    "query": "Ai là người chịu trách nhiệm thi hành Thông tư này?",
+    "category": "Câu hỏi tổng hợp",
+    "task_type": "diverse",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Giáo dục và Đào tạo",
+      "doc_type": "Thông tư",
+      "sign_number": "12/2009/TT-BGDĐT"
+    }
+  },
+  {
+    "id": "Q083",
+    "query": "Tôi muốn tìm hiểu về những phẩm chất cần thiết cho người làm công tác thanh tra ở tỉnh, thành phố. Anh/chị có thể cho tôi biết những tiêu chí chính về phẩm chất của họ?",
+    "category": "Hỏi định nghĩa / nội dung",
+    "task_type": "what",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Thanh tra Chính phủ",
+      "doc_type": "Thông tư",
+      "sign_number": "09/2011/TT-TTCP"
+    }
+  },
+  {
+    "id": "Q084",
+    "query": "Tôi muốn xây dựng một trường học mới. Trong quá trình thi công, tôi phát hiện nhà thầu sử dụng vật liệu kém chất lượng so với cam kết trong hợp đồng. Vậy tôi cần làm gì để bảo vệ quyền lợi của mình?",
+    "category": "Suy luận pháp lý",
+    "task_type": "legal_syllogism",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Công An",
+      "doc_type": "Thông tư",
+      "sign_number": "59/2017/TT-BCA"
+    }
+  },
+  {
+    "id": "Q085",
+    "query": "Khi đăng ký kết hôn, mình và người yêu không biết ngày tháng năm chính xác mình bắt đầu yêu nhau. Vậy mình ghi ngày tháng năm đăng ký kết hôn vào sổ như thế nào?",
+    "category": "Lý luận thông thường",
+    "task_type": "common_reasoning",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Tư pháp",
+      "doc_type": "Thông tư",
+      "sign_number": "15/2015/TT-BTP"
+    }
+  },
+  {
+    "id": "Q086",
+    "query": "Mình làm việc trong ngành Lao động Thương binh Xã hội, muốn biết mỗi năm cần báo cáo công tác thi đua, khen thưởng bao nhiêu lần và báo cáo vào thời gian nào trong năm?",
+    "category": "Lý luận thông thường",
+    "task_type": "common_reasoning",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Lao động - Thương binh và Xã hội",
+      "doc_type": "Thông tư",
+      "sign_number": "30/2014/TT-BLĐTBXH"
+    }
+  },
+  {
+    "id": "Q087",
+    "query": "Người đứng đầu phòng y tế quận, huyện, thị xã, thành phố thuộc tỉnh phải làm gì để thực hiện quy tắc ứng xử của công chức, viên chức, người lao động tại các cơ sở y tế?",
+    "category": "Hỏi định nghĩa / nội dung",
+    "task_type": "what",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Y tế",
+      "doc_type": "Thông tư",
+      "sign_number": "07/2014/TT-BYT"
+    }
+  },
+  {
+    "id": "Q088",
+    "query": "Ai cần phải báo cáo về tài nguyên nước?",
+    "category": "Liệt kê quy định",
+    "task_type": "listing",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Tài nguyên và Môi trường",
+      "doc_type": "Thông tư",
+      "sign_number": "31/2018/TT-BTNMT"
+    }
+  },
+  {
+    "id": "Q089",
+    "query": "Khi sử dụng thuốc bảo vệ thực vật, mình cần lưu ý những gì để đảm bảo an toàn cho bản thân và môi trường?",
+    "category": "Suy luận ngôn ngữ tự nhiên",
+    "task_type": "NLI",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Nông nghiệp và Phát triển nông thôn",
+      "doc_type": "Thông tư",
+      "sign_number": "21/2015/TT-BNNPTNT"
+    }
+  },
+  {
+    "id": "Q090",
+    "query": "Bộ Công Thương xác định danh mục nhiệm vụ khoa học và công nghệ đặt hàng cấp bộ như thế nào?",
+    "category": "Hỏi cách thức / quy trình",
+    "task_type": "how",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Công thương",
+      "doc_type": "Thông tư",
+      "sign_number": "50/2014/TT-BCT"
+    }
+  },
+  {
+    "id": "Q091",
+    "query": "Chương trình hỗ trợ ứng dụng, chuyển giao tiến bộ khoa học và công nghệ để phát triển kinh tế nông thôn có những nhiệm vụ gì?",
+    "category": "Lý luận thông thường",
+    "task_type": "common_reasoning",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Khoa học và Công nghệ",
+      "doc_type": "Thông tư",
+      "sign_number": "07/2016/TT-BKHCN"
+    }
+  },
+  {
+    "id": "Q092",
+    "query": "Để được công nhận đạt bậc 6, công nhân quốc phòng phải thực hiện những nhiệm vụ gì liên quan đến sửa chữa gầm ô tô?",
+    "category": "Liệt kê quy định",
+    "task_type": "listing",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Quốc phòng",
+      "doc_type": "Thông tư",
+      "sign_number": "136/2017/TT-BQP"
+    }
+  },
+  {
+    "id": "Q093",
+    "query": "Trường trung cấp công lập có áp dụng Thông tư 38/2018/TT-BLĐTBXH về định mức sử dụng diện tích công trình trong giáo dục nghề nghiệp không?",
+    "category": "Suy luận ngôn ngữ tự nhiên",
+    "task_type": "NLI",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Lao động - Thương binh và Xã hội",
+      "doc_type": "Thông tư",
+      "sign_number": "38/2018/TT-BLĐTBXH"
+    }
+  },
+  {
+    "id": "Q094",
+    "query": "Em muốn tìm hiểu về chính sách học bổng khuyến khích dành cho học sinh giỏi. Em biết là có những văn bản pháp luật quy định về chính sách này nhưng giờ em không tìm được. Anh/chị có thể giúp em biết được những văn bản nào đã bị bãi bỏ không?",
+    "category": "Liệt kê quy định",
+    "task_type": "listing",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Giáo dục và Đào tạo",
+      "doc_type": "Thông tư",
+      "sign_number": "48/2021/TT-BGDĐT"
+    }
+  },
+  {
+    "id": "Q095",
+    "query": "Tôi muốn biết thông tin về việc lưu trữ dữ liệu viễn thông của Cục Viễn thông. Họ lưu trữ những loại dữ liệu nào và trong bao lâu?",
+    "category": "Suy luận pháp lý",
+    "task_type": "legal_syllogism",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Thông tin và Truyền thông",
+      "doc_type": "Thông tư",
+      "sign_number": "21/2017/TT-BTTTT"
+    }
+  },
+  {
+    "id": "Q096",
+    "query": "Để được phép nhập khẩu vàng nguyên liệu, doanh nghiệp nước ngoài sản xuất vàng trang sức, mỹ nghệ cần đáp ứng những điều kiện gì?",
+    "category": "Hỏi định nghĩa / nội dung",
+    "task_type": "what",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Ngân hàng Nhà nước",
+      "doc_type": "Thông tư",
+      "sign_number": "16/2012/TT-NHNN"
+    }
+  },
+  {
+    "id": "Q097",
+    "query": "Mình muốn biết khi dự báo xâm nhập mặn, người ta thường quan tâm đến những yếu tố gì?",
+    "category": "Câu hỏi tổng hợp",
+    "task_type": "diverse",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Tài nguyên và Môi trường",
+      "doc_type": "Thông tư",
+      "sign_number": "41/2016/TT-BTNMT"
+    }
+  },
+  {
+    "id": "Q098",
+    "query": "Tóm tắt nội dung của Điều 1 Thông tư 20/2023/TT-BYT bãi bỏ văn bản quy phạm pháp luật mới nhất",
+    "category": "Tóm tắt văn bản",
+    "task_type": "summary",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Y tế",
+      "doc_type": "Thông tư",
+      "sign_number": "20/2023/TT-BYT"
+    }
+  },
+  {
+    "id": "Q099",
+    "query": "Làm việc trong lĩnh vực xã hội, một người làm việc chuyên nghiệp sẽ có những phẩm chất gì?",
+    "category": "Lý luận thông thường",
+    "task_type": "common_reasoning",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Lao động - Thương binh và Xã hội",
+      "doc_type": "Thông tư",
+      "sign_number": "26/2022/TT-BLĐTBXH"
+    }
+  },
+  {
+    "id": "Q100",
+    "query": "Nếu hiện tại tôi đang làm công chức ở ngạch cao hơn so với ngạch quy định trong vị trí công việc mới, thì lương của tôi sẽ như thế nào?",
+    "category": "Lý luận thông thường",
+    "task_type": "common_reasoning",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Ngoại giao",
+      "doc_type": "Thông tư",
+      "sign_number": "01/2023/TT-BNG"
+    }
+  },
+  {
+    "id": "Q101",
+    "query": "Tôi muốn dùng thẻ ngân hàng để mua hàng online nhưng lại bị từ chối thanh toán. Có những lý do nào có thể khiến thẻ của tôi bị từ chối?",
+    "category": "Liệt kê quy định",
+    "task_type": "listing",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Ngân hàng Nhà nước",
+      "doc_type": "Thông tư",
+      "sign_number": "19/2016/TT-NHNN"
+    }
+  },
+  {
+    "id": "Q102",
+    "query": "Thông tư số 07/2023/TT-BTTTT sửa đổi Thông tư 08/2020/TT-BTTTT có sửa đổi phần nào trong nội dung của Thông tư 08/2020/TT-BTTTT?",
+    "category": "Liệt kê quy định",
+    "task_type": "listing",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Thông tin và Truyền thông",
+      "doc_type": "Thông tư",
+      "sign_number": "07/2023/TT-BTTTT"
+    }
+  },
+  {
+    "id": "Q103",
+    "query": "Tôi muốn biết là những cơ quan nào được quyết định danh sách những cơ quan cần lưu trữ tài liệu lịch sử ở cấp tỉnh?",
+    "category": "Hỏi phạm vi áp dụng",
+    "task_type": "where",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Nội vụ",
+      "doc_type": "Thông tư",
+      "sign_number": "17/2014/TT-BNV"
+    }
+  },
+  {
+    "id": "Q104",
+    "query": "Tóm tắt nội dung của Điều 17 Thông tư 05/2021/TT-TTCP quy trình xử lý đơn khiếu nại đơn tố cáo đơn kiến nghị phản ánh mới nhất",
+    "category": "Tóm tắt văn bản",
+    "task_type": "summary",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Thanh tra Chính phủ",
+      "doc_type": "Thông tư",
+      "sign_number": "05/2021/TT-TTCP"
+    }
+  },
+  {
+    "id": "Q105",
+    "query": "Tóm tắt nội dung của Điều 8 Thông tư 71/2023/TT-BCA kiểm định môi trường nước thải của lực lượng Công an nhân dân mới nhất",
+    "category": "Tóm tắt văn bản",
+    "task_type": "summary",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Công An",
+      "doc_type": "Thông tư",
+      "sign_number": "71/2023/TT-BCA"
+    }
+  },
+  {
+    "id": "Q106",
+    "query": "Trong công an nhân dân, ai là những người chịu sự quản lý của Thông tư 59/2017/TT-BCA về giám sát và đánh giá đầu tư?",
+    "category": "Hỏi định nghĩa / nội dung",
+    "task_type": "what",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Công An",
+      "doc_type": "Thông tư",
+      "sign_number": "59/2017/TT-BCA"
+    }
+  },
+  {
+    "id": "Q107",
+    "query": "Làm sao để người dân có thể nộp đơn thư tố cáo tội phạm nếu không thể đến trụ sở công an?",
+    "category": "Hỏi cách thức / quy trình",
+    "task_type": "how",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Công An",
+      "doc_type": "Thông tư",
+      "sign_number": "126/2020/TT-BCA"
+    }
+  },
+  {
+    "id": "Q108",
+    "query": "Để trở thành một Hướng dẫn viên thể dục thể thao, liệu việc có bằng trung cấp chuyên ngành khác và chứng chỉ bồi dưỡng tiêu chuẩn chức danh nghề nghiệp viên chức chuyên ngành thể dục thể thao có đủ điều kiện hay không?",
+    "category": "Câu hỏi đúng/sai",
+    "task_type": "yes_no",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Văn hoá, Thể thao và du lịch",
+      "doc_type": "Thông tư",
+      "sign_number": "07/2022/TT-BVHTTDL"
+    }
+  },
+  {
+    "id": "Q109",
+    "query": "Người nước ngoài chơi game có thưởng ở Việt Nam có thể thanh toán bằng thẻ tín dụng được không?",
+    "category": "Câu hỏi tổng hợp",
+    "task_type": "diverse",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Ngân hàng Nhà nước",
+      "doc_type": "Thông tư",
+      "sign_number": "15/2014/TT-NHNN"
+    }
+  },
+  {
+    "id": "Q110",
+    "query": "Tôi muốn hỏi là những ai được hưởng chế độ ưu đãi người có công với cách mạng?",
+    "category": "Suy luận ngôn ngữ tự nhiên",
+    "task_type": "NLI",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Công An",
+      "doc_type": "Thông tư",
+      "sign_number": "14/2023/TT-BCA"
+    }
+  },
+  {
+    "id": "Q111",
+    "query": "Tôi nghe nói rằng có một văn bản pháp luật mới quy định về việc đánh giá phong trào thể dục thể thao quần chúng, vậy văn bản đó là gì và nội dung chính của nó là gì?",
+    "category": "Hỏi định nghĩa / nội dung",
+    "task_type": "what",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Văn hoá, Thể thao và du lịch",
+      "doc_type": "Thông tư",
+      "sign_number": "01/2019/TT-BVHTTDL"
+    }
+  },
+  {
+    "id": "Q112",
+    "query": "Tôi muốn tìm hiểu về quy trình xử lý các vụ việc liên quan đến việc thi hành công vụ gây thiệt hại. Ai là người có thẩm quyền xác định hành vi trái pháp luật và ai sẽ quyết định bồi thường thiệt hại?",
+    "category": "Liệt kê quy định",
+    "task_type": "listing",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Tòa án nhân dân tối cao",
+      "doc_type": "Thông tư",
+      "sign_number": "02/2023/TT-TANDTC"
+    }
+  },
+  {
+    "id": "Q113",
+    "query": "Tôi nghe nói có một ban điều hành chuyên về bảo tồn và phát triển nguồn gen. Vậy ban này được thành lập như thế nào và những ai tham gia vào ban này?",
+    "category": "Suy luận ngôn ngữ tự nhiên",
+    "task_type": "NLI",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Khoa học và Công nghệ",
+      "doc_type": "Thông tư",
+      "sign_number": "18/2010/TT-BKHCN"
+    }
+  },
+  {
+    "id": "Q114",
+    "query": "Khi một con tàu có mớn nước hạn chế di chuyển trên biển, ngoài các đèn được quy định trong luật, thì con tàu có thể dùng thêm những loại đèn hay dấu hiệu nào?",
+    "category": "Hỏi định nghĩa / nội dung",
+    "task_type": "what",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Giao thông vận tải",
+      "doc_type": "Thông tư",
+      "sign_number": "19/2013/TT-BGTVT"
+    }
+  },
+  {
+    "id": "Q115",
+    "query": "Làm sao để biết được thông tin chi tiết về PBN trong hoạt động bay?",
+    "category": "Hỏi cách thức / quy trình",
+    "task_type": "how",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Giao thông vận tải",
+      "doc_type": "Thông tư",
+      "sign_number": "19/2017/TT-BGTVT"
+    }
+  },
+  {
+    "id": "Q116",
+    "query": "Tôi muốn hỏi ai là người chịu trách nhiệm thực hiện Thông tư này?",
+    "category": "Lý luận thông thường",
+    "task_type": "common_reasoning",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Giao thông vận tải",
+      "doc_type": "Thông tư",
+      "sign_number": "36/2021/TT-BGTVT"
+    }
+  },
+  {
+    "id": "Q117",
+    "query": "Tóm tắt nội dung của Điều 1 Thông tư 59/2015/TT-BCT quản lý hoạt động thương mại điện tử qua ứng dụng trên thiết bị di động mới nhất",
+    "category": "Tóm tắt văn bản",
+    "task_type": "summary",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Công thương",
+      "doc_type": "Thông tư",
+      "sign_number": "59/2015/TT-BCT"
+    }
+  },
+  {
+    "id": "Q118",
+    "query": "Ai là người chịu trách nhiệm thi hành Thông tư 02/2014/TT-BGDĐT về Quy chế công nhận trường mầm non đạt chuẩn quốc gia?",
+    "category": "Suy luận pháp lý",
+    "task_type": "legal_syllogism",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Giáo dục và Đào tạo",
+      "doc_type": "Thông tư",
+      "sign_number": "02/2014/TT-BGDĐT"
+    }
+  },
+  {
+    "id": "Q119",
+    "query": "Tôi muốn mở nhà thuốc nhưng chỉ có bằng tốt nghiệp trung học chuyên nghiệp dược. Liệu tôi có đủ điều kiện để xin chứng chỉ hành nghề dược?",
+    "category": "Câu hỏi đúng/sai",
+    "task_type": "yes_no",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Y tế",
+      "doc_type": "Thông tư",
+      "sign_number": "01/2004/TT-BYT"
+    }
+  },
+  {
+    "id": "Q120",
+    "query": "Các bạn trẻ tình nguyện tham gia dự án này làm việc ở đâu?",
+    "category": "Hỏi phạm vi áp dụng",
+    "task_type": "where",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Quốc phòng",
+      "doc_type": "Thông tư",
+      "sign_number": "92/2010/TT-BQP"
+    }
+  },
+  {
+    "id": "Q121",
+    "query": "Nếu một công ty muốn bán lẻ điện cho khách hàng mà họ vừa lấy điện từ lưới điện quốc gia, vừa tự sản xuất điện, thì giá bán lẻ điện của họ sẽ được điều chỉnh như thế nào?",
+    "category": "Lý luận thông thường",
+    "task_type": "common_reasoning",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Công thương",
+      "doc_type": "Thông tư",
+      "sign_number": "31/2011/TT-BCT"
+    }
+  },
+  {
+    "id": "Q122",
+    "query": "Nếu một học sinh trong trường giáo dưỡng có hành động tốt, được xem là lập công, thì xếp loại thi đua của học sinh đó sẽ thay đổi như thế nào?",
+    "category": "Hỏi cách thức / quy trình",
+    "task_type": "how",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Công An",
+      "doc_type": "Thông tư",
+      "sign_number": "49/2022/TT-BCA"
+    }
+  },
+  {
+    "id": "Q123",
+    "query": "Tôi đang tìm việc làm nhưng chưa biết nên liên hệ với ai để được hỗ trợ. Vậy tôi nên liên hệ với cơ quan nào?",
+    "category": "Câu hỏi tổng hợp",
+    "task_type": "diverse",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Lao động - Thương binh và Xã hội",
+      "doc_type": "Thông tư",
+      "sign_number": "01/2020/TT-BLĐTBXH"
+    }
+  },
+  {
+    "id": "Q124",
+    "query": "Ai là những người cần tuân theo khung giá dịch vụ tiêm phòng, tiêu độc khử trùng cho động vật, chẩn đoán thú y được quy định trong Thông tư 283/2016/TT-BTC?",
+    "category": "Suy luận ngôn ngữ tự nhiên",
+    "task_type": "NLI",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Tài chính",
+      "doc_type": "Thông tư",
+      "sign_number": "283/2016/TT-BTC"
+    }
+  },
+  {
+    "id": "Q125",
+    "query": "Bệnh nhân và gia đình bệnh nhân có thể tham gia ý kiến, phản ánh về chất lượng dịch vụ y tế ở bệnh viện Công an như thế nào?",
+    "category": "Liệt kê quy định",
+    "task_type": "listing",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Công An",
+      "doc_type": "Thông tư",
+      "sign_number": "64/2009/TT-BCA"
+    }
+  },
+  {
+    "id": "Q126",
+    "query": "Tóm tắt nội dung của Điều 33 Thông tư 168/2020/TT-BQP kiểu mẫu màu sắc trang phục Cảnh sát biển Việt Nam mới nhất",
+    "category": "Tóm tắt văn bản",
+    "task_type": "summary",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Quốc phòng",
+      "doc_type": "Thông tư",
+      "sign_number": "168/2020/TT-BQP"
+    }
+  },
+  {
+    "id": "Q127",
+    "query": "Tôi muốn kinh doanh thực phẩm đông lạnh nhập khẩu vào Việt Nam và tái xuất đi nước ngoài, vậy tôi cần đáp ứng những điều kiện gì?",
+    "category": "Hỏi định nghĩa / nội dung",
+    "task_type": "what",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Công thương",
+      "doc_type": "Thông tư",
+      "sign_number": "05/2013/TT-BCT"
+    }
+  },
+  {
+    "id": "Q128",
+    "query": "Tôi đang muốn mở một chi nhánh ngân hàng nước ngoài ở Việt Nam.  Làm sao để chi nhánh của tôi được phép hoạt động ngoại hối cơ bản trong nước?",
+    "category": "Hỏi phạm vi áp dụng",
+    "task_type": "where",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Ngân hàng Nhà nước",
+      "doc_type": "Thông tư",
+      "sign_number": "21/2014/TT-NHNN"
+    }
+  },
+  {
+    "id": "Q129",
+    "query": "Các tổ chức, cá nhân trong nước, nước ngoài phải làm gì khi phối hợp khám bệnh, chữa bệnh nhân đạo với các cơ sở khám chữa bệnh thuộc Bộ Quốc phòng?",
+    "category": "Hỏi định nghĩa / nội dung",
+    "task_type": "what",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Quốc phòng",
+      "doc_type": "Thông tư",
+      "sign_number": "103/2016/TT-BQP"
+    }
+  },
+  {
+    "id": "Q130",
+    "query": "Tóm tắt nội dung của Điều 7 Thông tư 08.a/2010/TT-BTP hướng dẫn việc ghi chép, lưu trữ, sử dụng",
+    "category": "Tóm tắt văn bản",
+    "task_type": "summary",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Tư pháp",
+      "doc_type": "Thông tư",
+      "sign_number": "08.a/2010/TT-BTP"
+    }
+  },
+  {
+    "id": "Q131",
+    "query": "Tôi muốn xây dựng một con đê nhỏ để bảo vệ khu vườn nhà mình khỏi ngập lụt.  Vậy tôi có cần phải lo lắng về việc chi phí duy tu bảo dưỡng con đê này không?",
+    "category": "Câu hỏi đúng/sai",
+    "task_type": "yes_no",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Tài chính",
+      "doc_type": "Thông tư",
+      "sign_number": "68/2020/TT-BTC"
+    }
+  },
+  {
+    "id": "Q132",
+    "query": "Tóm tắt nội dung của Điều 10 Thông tư 11/2009/TT-BKHCN quy định giải thưởng chất lượng quốc gia",
+    "category": "Tóm tắt văn bản",
+    "task_type": "summary",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Khoa học và Công nghệ",
+      "doc_type": "Thông tư",
+      "sign_number": "11/2009/TT-BKHCN"
+    }
+  },
+  {
+    "id": "Q133",
+    "query": "Ai là người chịu trách nhiệm thực hiện Thông tư này?",
+    "category": "Hỏi định nghĩa / nội dung",
+    "task_type": "what",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Quốc phòng",
+      "doc_type": "Thông tư",
+      "sign_number": "41/2017/TT-BQP"
+    }
+  },
+  {
+    "id": "Q134",
+    "query": "Nếu xe ô tô của mình bị tai nạn và phải sửa chữa thì làm sao để được hoàn trả phí sử dụng đường bộ?",
+    "category": "Hỏi cách thức / quy trình",
+    "task_type": "how",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Tài chính",
+      "doc_type": "Thông tư",
+      "sign_number": "197/2012/TT-BTC"
+    }
+  },
+  {
+    "id": "Q135",
+    "query": "Tôi muốn thành lập một công ty cho thuê lao động. Vậy tôi cần phải ký quỹ tiền ở đâu và ai quản lý số tiền đó?",
+    "category": "Lý luận thông thường",
+    "task_type": "common_reasoning",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Ngân hàng Nhà nước",
+      "doc_type": "Thông tư",
+      "sign_number": "40/2014/TT-NHNN"
+    }
+  },
+  {
+    "id": "Q136",
+    "query": "Cho tôi hỏi, ngân hàng nước ngoài có được phép cho vay tiền bằng ngoại tệ cho người dân Việt Nam không?",
+    "category": "Câu hỏi đúng/sai",
+    "task_type": "yes_no",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Ngân hàng Nhà nước",
+      "doc_type": "Thông tư",
+      "sign_number": "43/2014/TT-NHNN"
+    }
+  },
+  {
+    "id": "Q137",
+    "query": "Bộ Nông nghiệp và Phát triển nông thôn có phải là cơ quan quản lý các nhiệm vụ bảo vệ môi trường sử dụng ngân sách nhà nước?",
+    "category": "Câu hỏi đúng/sai",
+    "task_type": "yes_no",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Nông nghiệp và Phát triển nông thôn",
+      "doc_type": "Thông tư",
+      "sign_number": "17/2016/TT-BNNPTNT"
+    }
+  },
+  {
+    "id": "Q138",
+    "query": "Thông tư 18/2021/TT-BCT sửa đổi Thông tư 40/2019/TT-BCT có bãi bỏ hết nội dung của Thông tư 40/2019/TT-BCT không?",
+    "category": "Câu hỏi đúng/sai",
+    "task_type": "yes_no",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Công thương",
+      "doc_type": "Thông tư",
+      "sign_number": "18/2021/TT-BCT"
+    }
+  },
+  {
+    "id": "Q139",
+    "query": "Khi kiểm tra hoạt động của một ngân hàng, cơ quan giám sát có thể làm gì để thu thập thông tin?",
+    "category": "Lý luận thông thường",
+    "task_type": "common_reasoning",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Ngân hàng Nhà nước",
+      "doc_type": "Thông tư",
+      "sign_number": "08/2017/TT-NHNN"
+    }
+  },
+  {
+    "id": "Q140",
+    "query": "Tôi là một người dân bình thường, muốn biết ai là người chịu trách nhiệm thực hiện việc quản lý, giám sát hoạt động của ngân hàng ở Việt Nam?",
+    "category": "Lý luận thông thường",
+    "task_type": "common_reasoning",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Ngân hàng Nhà nước Việt Nam",
+      "doc_type": "Thông tư",
+      "sign_number": "11/2021/TT-NHNN"
+    }
+  },
+  {
+    "id": "Q141",
+    "query": "Nếu một tàu cá bị phát hiện khai thác hải sản bất hợp pháp thì cơ quan quản lý có thể làm gì?",
+    "category": "Suy luận pháp lý",
+    "task_type": "legal_syllogism",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Nông nghiệp và Phát triển nông thôn",
+      "doc_type": "Thông tư",
+      "sign_number": "28/2011/TT-BNNPTNT"
+    }
+  },
+  {
+    "id": "Q142",
+    "query": "Tôi nghe nói có một cơ quan nào đó sẽ kiểm tra công ty cung cấp thông tin về tín dụng hàng năm. Vậy cơ quan đó là ai và họ làm việc gì?",
+    "category": "Suy luận ngôn ngữ tự nhiên",
+    "task_type": "NLI",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Ngân hàng Nhà nước",
+      "doc_type": "Thông tư",
+      "sign_number": "16/2010/TT-NHNN"
+    }
+  },
+  {
+    "id": "Q143",
+    "query": "Tôi muốn hỏi là ai sẽ là người chịu trách nhiệm thực hiện các quy định trong Thông tư 21/2019/TT-BXD về nhà chung cư?",
+    "category": "Câu hỏi tổng hợp",
+    "task_type": "diverse",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Xây dựng",
+      "doc_type": "Thông tư",
+      "sign_number": "21/2019/TT-BXD"
+    }
+  },
+  {
+    "id": "Q144",
+    "query": "Luật này có hiệu lực từ khi nào?",
+    "category": "Hỏi định nghĩa / nội dung",
+    "task_type": "what",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Tư pháp",
+      "doc_type": "Thông tư",
+      "sign_number": "22/2010/TT-BTP"
+    }
+  },
+  {
+    "id": "Q145",
+    "query": "Chào luật sư, em muốn hỏi là Thông tư 05/2024/TT-TTCP có hiệu lực từ khi nào?",
+    "category": "Suy luận ngôn ngữ tự nhiên",
+    "task_type": "NLI",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Thanh tra Chính phủ",
+      "doc_type": "Thông tư",
+      "sign_number": "05/2024/TT-TTCP"
+    }
+  },
+  {
+    "id": "Q146",
+    "query": "Nếu một dự án bảo quản, tu bổ, phục hồi di tích đã ký hợp đồng trước khi Thông tư 17/2013/TT-BVHTTDL có hiệu lực thì việc lập quy hoạch, dự án, báo cáo kinh tế-kỹ thuật sẽ được thực hiện như thế nào?",
+    "category": "Hỏi định nghĩa / nội dung",
+    "task_type": "what",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Văn hoá, Thể thao và du lịch",
+      "doc_type": "Thông tư",
+      "sign_number": "17/2013/TT-BVHTTDL"
+    }
+  },
+  {
+    "id": "Q147",
+    "query": "Làm sao để biết được khi nào thì người con trai được tạm hoãn hoặc miễn gọi nhập ngũ?",
+    "category": "Hỏi cách thức / quy trình",
+    "task_type": "how",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Chính phủ",
+      "doc_type": "Nghị định",
+      "sign_number": "38/2007/NĐ-CP"
+    }
+  },
+  {
+    "id": "Q148",
+    "query": "Tóm tắt nội dung của Điều 10 Thông tư 03/2016/TT-BNV thành lập hoạt động hội đồng quản lý đơn vị sự nghiệp công lập mới nhất",
+    "category": "Tóm tắt văn bản",
+    "task_type": "summary",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Nội vụ",
+      "doc_type": "Thông tư",
+      "sign_number": "03/2016/TT-BNV"
+    }
+  },
+  {
+    "id": "Q149",
+    "query": "Mình muốn vay tiền nước ngoài để đầu tư cho công ty. Vậy mình có cần phải đáp ứng các yêu cầu về tỷ lệ bảo đảm an toàn của ngân hàng không?",
+    "category": "Câu hỏi đúng/sai",
+    "task_type": "yes_no",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Ngân hàng Nhà nước",
+      "doc_type": "Thông tư",
+      "sign_number": "18/2011/TT-NHNN"
+    }
+  },
+  {
+    "id": "Q150",
+    "query": "Ngân hàng Nhà nước có trách nhiệm gì khi tái cấp vốn cho tổ chức tín dụng?",
+    "category": "Liệt kê quy định",
+    "task_type": "listing",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Ngân hàng Nhà nước Việt Nam",
+      "doc_type": "Thông tư",
+      "sign_number": "24/2019/TT-NHNN"
+    }
+  },
+  {
+    "id": "Q151",
+    "query": "Để có thể khai thác tuyến vận tải hành khách cố định, liệu tuyến đó có cần phải có cả bến xe nơi đi và bến xe nơi đến đã được công bố đưa vào khai thác hay không?",
+    "category": "Câu hỏi đúng/sai",
+    "task_type": "yes_no",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Giao thông vận tải",
+      "doc_type": "Thông tư",
+      "sign_number": "12/2020/TT-BGTVT"
+    }
+  },
+  {
+    "id": "Q152",
+    "query": "Ngoài Bộ Giao thông vận tải, những đơn vị nào khác được áp dụng Thông tư 24/2012/TT-BGTVT về thi đua khen thưởng?",
+    "category": "Liệt kê quy định",
+    "task_type": "listing",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Giao thông vận tải",
+      "doc_type": "Thông tư",
+      "sign_number": "24/2012/TT-BGTVT"
+    }
+  },
+  {
+    "id": "Q153",
+    "query": "Tôi nghe nói là khi điều chỉnh quy hoạch đã được phê duyệt thì định mức sẽ giống như lập mới quy hoạch. Vậy cụ thể định mức cho hoạt động điều chỉnh quy hoạch như thế nào?",
+    "category": "Câu hỏi tổng hợp",
+    "task_type": "diverse",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Kế hoạch và Đầu tư",
+      "doc_type": "Thông tư",
+      "sign_number": "08/2019/TT-BKHĐT"
+    }
+  },
+  {
+    "id": "Q154",
+    "query": "Liệu có đúng là chính quyền tỉnh Phú Yên, Bộ trưởng Bộ Nội vụ và các cơ quan liên quan có trách nhiệm thực hiện nghị định này?",
+    "category": "Câu hỏi đúng/sai",
+    "task_type": "yes_no",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Chính phủ",
+      "doc_type": "Nghị định",
+      "sign_number": "62/2005/NĐ-CP"
+    }
+  },
+  {
+    "id": "Q155",
+    "query": "Tóm tắt nội dung của Điều 15 Thông tư 203/2015/TT-BTC hướng dẫn giao dịch trên thị trường chứng khoán",
+    "category": "Tóm tắt văn bản",
+    "task_type": "summary",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Tài chính",
+      "doc_type": "Thông tư",
+      "sign_number": "203/2015/TT-BTC"
+    }
+  },
+  {
+    "id": "Q156",
+    "query": "Khi nào thì trường mầm non, trường mẫu giáo, nhà trẻ bị giải thể?",
+    "category": "Hỏi định nghĩa / nội dung",
+    "task_type": "what",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Chính phủ",
+      "doc_type": "Nghị định",
+      "sign_number": "46/2017/NĐ-CP"
+    }
+  },
+  {
+    "id": "Q157",
+    "query": "Để làm Trưởng thôn hay Tổ trưởng tổ dân phố, người đó cần đáp ứng những tiêu chí gì?",
+    "category": "Lý luận thông thường",
+    "task_type": "common_reasoning",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Nội vụ",
+      "doc_type": "Thông tư",
+      "sign_number": "04/2012/TT-BNV"
+    }
+  },
+  {
+    "id": "Q158",
+    "query": "Mình muốn làm lại giấy khai sinh cho con mình, nhưng mình chỉ còn giữ được sổ hộ khẩu của mình. Vậy mình có thể làm lại khai sinh cho con được không?",
+    "category": "Suy luận pháp lý",
+    "task_type": "legal_syllogism",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Tư pháp",
+      "doc_type": "Thông tư",
+      "sign_number": "15/2015/TT-BTP"
+    }
+  },
+  {
+    "id": "Q159",
+    "query": "Làm sao để đảm bảo chất lượng điện năng khi sản xuất điện?",
+    "category": "Hỏi cách thức / quy trình",
+    "task_type": "how",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Chính phủ",
+      "doc_type": "Nghị định",
+      "sign_number": "45/2001/NĐ-CP"
+    }
+  },
+  {
+    "id": "Q160",
+    "query": "Tại sao cần có chuẩn giáo viên, giảng viên dạy nghề?",
+    "category": "Suy luận ngôn ngữ tự nhiên",
+    "task_type": "NLI",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Lao động – Thương binh và Xã hội",
+      "doc_type": "Thông tư",
+      "sign_number": "30/2010/TT-BLĐTBXH"
+    }
+  },
+  {
+    "id": "Q161",
+    "query": "Làm sao để cán bộ, công chức của cơ quan nhà nước có thể làm việc tại cơ quan Uỷ ban Mặt trận Tổ quốc Việt Nam?",
+    "category": "Hỏi định nghĩa / nội dung",
+    "task_type": "what",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Chính phủ",
+      "doc_type": "Nghị định",
+      "sign_number": "50/2001/NĐ-CP"
+    }
+  },
+  {
+    "id": "Q162",
+    "query": "Cục Công nghệ tin học của Ngân hàng Nhà nước có nhiệm vụ gì trong việc quản lý hệ thống thanh toán điện tử?",
+    "category": "Hỏi định nghĩa / nội dung",
+    "task_type": "what",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Ngân hàng Nhà nước",
+      "doc_type": "Thông tư",
+      "sign_number": "23/2010/TT-NHNN"
+    }
+  },
+  {
+    "id": "Q163",
+    "query": "Mình muốn nhập khẩu một loại máy móc đo lường mới về Việt Nam, nhưng không biết phải làm gì để đảm bảo tuân thủ luật pháp. Anh/chị có thể cho mình biết cần phải kiểm tra những gì khi nhập khẩu loại máy móc này?",
+    "category": "Hỏi phạm vi áp dụng",
+    "task_type": "where",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Khoa học và Công nghệ",
+      "doc_type": "Thông tư",
+      "sign_number": "28/2013/TT-BKHCN"
+    }
+  },
+  {
+    "id": "Q164",
+    "query": "Tôi muốn xây dựng một ngôi nhà cho riêng mình, vậy tôi có cần phải tuân theo những quy định về hợp đồng thi công xây dựng được nêu trong Thông tư 09/2016/TT-BXD hay không?",
+    "category": "Lý luận thông thường",
+    "task_type": "common_reasoning",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Xây dựng",
+      "doc_type": "Thông tư",
+      "sign_number": "09/2016/TT-BXD"
+    }
+  },
+  {
+    "id": "Q165",
+    "query": "Em muốn trở thành giáo viên dạy nghề, em cần phải có những phẩm chất gì?",
+    "category": "Suy luận pháp lý",
+    "task_type": "legal_syllogism",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Lao động – Thương binh và Xã hội",
+      "doc_type": "Thông tư",
+      "sign_number": "30/2010/TT-BLĐTBXH"
+    }
+  },
+  {
+    "id": "Q166",
+    "query": "Mật ong được kiểm tra, giám sát như thế nào để đảm bảo an toàn vệ sinh thực phẩm?",
+    "category": "Hỏi định nghĩa / nội dung",
+    "task_type": "what",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Nông nghiệp và Phát triển nông thôn",
+      "doc_type": "Thông tư",
+      "sign_number": "23/2009/TT-BNN"
+    }
+  },
+  {
+    "id": "Q167",
+    "query": "Bác sĩ trong cơ sở y tế Công an nhân dân có thể góp ý kiến với lãnh đạo theo những cách nào?",
+    "category": "Hỏi định nghĩa / nội dung",
+    "task_type": "what",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Công An",
+      "doc_type": "Thông tư",
+      "sign_number": "64/2009/TT-BCA"
+    }
+  },
+  {
+    "id": "Q168",
+    "query": "Cháu nghe nói là những người làm việc trong ngành đường sắt mà uống rượu bia lên làm việc sẽ bị phạt. Cháu muốn biết là mức phạt cụ thể như thế nào?",
+    "category": "Liệt kê quy định",
+    "task_type": "listing",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Chính phủ",
+      "doc_type": "Nghị định",
+      "sign_number": "46/2016/NĐ-CP"
+    }
+  },
+  {
+    "id": "Q169",
+    "query": "Tóm tắt nội dung của Điều 18 Thông tư 19/2013/TT-BTNMT kỹ thuật quan trắc tài nguyên nước dưới đất mới nhất",
+    "category": "Tóm tắt văn bản",
+    "task_type": "summary",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Tài nguyên và Môi trường",
+      "doc_type": "Thông tư",
+      "sign_number": "19/2013/TT-BTNMT"
+    }
+  },
+  {
+    "id": "Q170",
+    "query": "Tôi đang muốn tìm hiểu về quy trình lấy ý kiến của lãnh đạo bộ đối với một dự thảo luật, cụ thể là ai được quyền đưa ra ý kiến và thời hạn để đưa ra ý kiến?",
+    "category": "Lý luận thông thường",
+    "task_type": "common_reasoning",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Công thương",
+      "doc_type": "Thông tư",
+      "sign_number": "08/2021/TT-BCT"
+    }
+  },
+  {
+    "id": "Q171",
+    "query": "Làm thế nào để biết thêm về quy định chi tiết về CDM trong hoạt động bay?",
+    "category": "Hỏi cách thức / quy trình",
+    "task_type": "how",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Giao thông vận tải",
+      "doc_type": "Thông tư",
+      "sign_number": "19/2017/TT-BGTVT"
+    }
+  },
+  {
+    "id": "Q172",
+    "query": "Nếu sổ sách kế toán của công ty bị mất, mình phải làm gì để khôi phục lại sổ sách cho chính xác nhất?",
+    "category": "Hỏi cách thức / quy trình",
+    "task_type": "how",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Tài chính",
+      "doc_type": "Thông tư",
+      "sign_number": "96/2010/TT-BTC"
+    }
+  },
+  {
+    "id": "Q173",
+    "query": "Làm sao để thu thập được thông tin về hàng hóa xuất khẩu, nhập khẩu của Việt Nam?",
+    "category": "Hỏi định nghĩa / nội dung",
+    "task_type": "what",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Tài chính",
+      "doc_type": "Thông tư",
+      "sign_number": "52/2020/TT-BTC"
+    }
+  },
+  {
+    "id": "Q174",
+    "query": "Nơi nào được áp dụng quy định về đào tạo trình độ sơ cấp?",
+    "category": "Hỏi phạm vi áp dụng",
+    "task_type": "where",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Lao động - Thương binh và Xã hội",
+      "doc_type": "Thông tư",
+      "sign_number": "42/2015/TT-BLĐTBXH"
+    }
+  },
+  {
+    "id": "Q175",
+    "query": "Chị ơi, nếu công ty mình có nhiều bộ phận, mỗi bộ phận có nhiệm vụ khác nhau thì mình nên lập Danh mục hồ sơ như thế nào cho phù hợp?",
+    "category": "Câu hỏi tổng hợp",
+    "task_type": "diverse",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Nội vụ",
+      "doc_type": "Thông tư",
+      "sign_number": "07/2012/TT-BNV"
+    }
+  },
+  {
+    "id": "Q176",
+    "query": "Ai là những người cần tuân thủ quy định về cơ sở dữ liệu địa lý tỷ lệ 1:250.000?",
+    "category": "Suy luận ngôn ngữ tự nhiên",
+    "task_type": "NLI",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Tài nguyên và Môi trường",
+      "doc_type": "Thông tư",
+      "sign_number": "48/2016/TT-BTNMT"
+    }
+  },
+  {
+    "id": "Q177",
+    "query": "Bác sĩ ở bệnh viện công an có thể giám sát hoạt động của bệnh viện theo những cách nào?",
+    "category": "Lý luận thông thường",
+    "task_type": "common_reasoning",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Công An",
+      "doc_type": "Thông tư",
+      "sign_number": "64/2009/TT-BCA"
+    }
+  },
+  {
+    "id": "Q178",
+    "query": "Các trường đại học có được tự do quyết định mở thêm các chuyên ngành đào tạo mới hay không?",
+    "category": "Suy luận ngôn ngữ tự nhiên",
+    "task_type": "NLI",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Giáo dục và Đào tạo",
+      "doc_type": "Thông tư",
+      "sign_number": "24/2017/TT-BGDĐT"
+    }
+  },
+  {
+    "id": "Q179",
+    "query": "Tóm tắt nội dung của Điều 3 Thông tư 26/2023/TT-BGDĐT sửa đổi thiết bị dạy học tối thiểu theo Thông tư 37/2021/TT-BGDĐT mới nhất",
+    "category": "Tóm tắt văn bản",
+    "task_type": "summary",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Giáo dục và Đào tạo",
+      "doc_type": "Thông tư",
+      "sign_number": "26/2023/TT-BGDĐT"
+    }
+  },
+  {
+    "id": "Q180",
+    "query": "Tôi muốn đưa con mình đi khám bệnh. Liệu bác sĩ có cần báo cáo về tình trạng bệnh của con tôi cho cơ quan y tế khác không?",
+    "category": "Suy luận pháp lý",
+    "task_type": "legal_syllogism",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Y tế",
+      "doc_type": "Thông tư",
+      "sign_number": "02/2013/TT-BYT"
+    }
+  },
+  {
+    "id": "Q181",
+    "query": "Tôi muốn mở cửa hàng miễn thuế và muốn biết rõ hơn về thủ tục thanh khoản sau khi bán hàng. Có thể cho tôi biết cần những loại giấy tờ gì để thanh khoản hàng hóa?",
+    "category": "Hỏi cách thức / quy trình",
+    "task_type": "how",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Tài chính",
+      "doc_type": "Thông tư",
+      "sign_number": "148/2013/TT-BTC"
+    }
+  },
+  {
+    "id": "Q182",
+    "query": "Khi xảy ra sự cố mất điện toàn trạm điện, nhân viên vận hành phải làm gì để đảm bảo an toàn cho trạm điện và thiết bị?",
+    "category": "Hỏi cách thức / quy trình",
+    "task_type": "how",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Công thương",
+      "doc_type": "Thông tư",
+      "sign_number": "28/2014/TT-BCT"
+    }
+  },
+  {
+    "id": "Q183",
+    "query": "Khi một công ty nước ngoài muốn đầu tư vào Việt Nam và góp vốn bằng tiền đồng Việt Nam, thì họ cần làm gì?",
+    "category": "Hỏi định nghĩa / nội dung",
+    "task_type": "what",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Ngân hàng Nhà nước Việt Nam",
+      "doc_type": "Thông tư",
+      "sign_number": "06/2019/TT-NHNN"
+    }
+  },
+  {
+    "id": "Q184",
+    "query": "Tôi muốn mở một cơ sở sản xuất thực phẩm nhưng chưa biết cần phải làm những thủ tục gì để đáp ứng các quy định hiện hành.  Anh/chị có thể cho tôi biết cần phải làm những gì để cơ sở của tôi được phép hoạt động không?",
+    "category": "Hỏi cách thức / quy trình",
+    "task_type": "how",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Chính phủ",
+      "doc_type": "Nghị định",
+      "sign_number": "94/2011/NĐ-CP"
+    }
+  },
+  {
+    "id": "Q185",
+    "query": "Tôi muốn thành lập một tổ chức phi lợi nhuận để hỗ trợ người nông dân phát triển kinh tế. Liệu tổ chức của tôi có được hỗ trợ từ chương trình phát triển kinh tế tập thể và hợp tác xã hay không?",
+    "category": "Câu hỏi đúng/sai",
+    "task_type": "yes_no",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Tài chính",
+      "doc_type": "Thông tư",
+      "sign_number": "124/2021/TT-BTC"
+    }
+  },
+  {
+    "id": "Q186",
+    "query": "Nếu mình muốn biết thông tin về một ứng dụng di động, mình có thể tìm thông tin đó ở đâu?",
+    "category": "Suy luận pháp lý",
+    "task_type": "legal_syllogism",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Công thương",
+      "doc_type": "Thông tư",
+      "sign_number": "59/2015/TT-BCT"
+    }
+  },
+  {
+    "id": "Q187",
+    "query": "Khi tìm kiếm hài cốt liệt sĩ, ngoài những người lính chuyên nghiệp, còn có ai tham gia hỗ trợ nữa không?",
+    "category": "Câu hỏi đúng/sai",
+    "task_type": "yes_no",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Quốc phòng",
+      "doc_type": "Thông tư",
+      "sign_number": "80/2022/TT-BQP"
+    }
+  },
+  {
+    "id": "Q188",
+    "query": "Tôi muốn mở một trung tâm dạy nghề cho học sinh cấp 3 muốn học thêm về lĩnh vực may mặc. Tôi cần phải chuẩn bị những gì về cơ sở vật chất và giáo viên?",
+    "category": "Lý luận thông thường",
+    "task_type": "common_reasoning",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Lao động – Thương binh và Xã hội",
+      "doc_type": "Thông tư",
+      "sign_number": "29/2011/TT-BLĐTBXH"
+    }
+  },
+  {
+    "id": "Q189",
+    "query": "Làm sao để thiết kế chương trình quan trắc môi trường đất hiệu quả?",
+    "category": "Hỏi cách thức / quy trình",
+    "task_type": "how",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Tài nguyên và Môi trường",
+      "doc_type": "Thông tư",
+      "sign_number": "33/2011/TT-BTNMT"
+    }
+  },
+  {
+    "id": "Q190",
+    "query": "Tôi muốn mua một chiếc máy bay không người lái để phục vụ công việc kinh doanh của mình, nhưng không biết phải làm gì để được phép sử dụng nó.  Ai có thể giúp tôi tìm hiểu về các quy định liên quan?",
+    "category": "Câu hỏi tổng hợp",
+    "task_type": "diverse",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Quốc phòng",
+      "doc_type": "Thông tư",
+      "sign_number": "35/2017/TT-BQP"
+    }
+  },
+  {
+    "id": "Q191",
+    "query": "Làm cộng tác viên xã hội ở cấp xã có được nhận lương hàng tháng không? Nếu có thì mức lương như thế nào?",
+    "category": "Hỏi định nghĩa / nội dung",
+    "task_type": "what",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Lao động - Thương binh và Xã hội",
+      "doc_type": "Thông tư",
+      "sign_number": "07/2013/TT-BLĐTBXH"
+    }
+  },
+  {
+    "id": "Q192",
+    "query": "Tôi muốn kinh doanh thuốc thú y, chế phẩm sinh học, vi sinh vật, hóa chất dùng trong thú y thủy sản. Vậy tôi cần phải làm gì để được phép kinh doanh?",
+    "category": "Câu hỏi tổng hợp",
+    "task_type": "diverse",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Nông nghiệp và Phát triển nông thôn",
+      "doc_type": "Thông tư",
+      "sign_number": "69/2010/TT-BNNPTNT"
+    }
+  },
+  {
+    "id": "Q193",
+    "query": "Một cơ quan nhà nước cấp tỉnh muốn tìm hiểu về trách nhiệm của tổ chức pháp chế ở các cơ quan ngang bộ trong việc theo dõi tình hình thi hành pháp luật, họ cần tìm hiểu điều gì?",
+    "category": "Hỏi định nghĩa / nội dung",
+    "task_type": "what",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Tư pháp",
+      "doc_type": "Thông tư",
+      "sign_number": "01/2015/TT-BTP"
+    }
+  },
+  {
+    "id": "Q194",
+    "query": "Tôi muốn mở một nhà máy sản xuất thuốc nhưng không biết phải làm gì để đảm bảo nhà máy đạt tiêu chuẩn GMP. Anh/chị có thể cho tôi biết những bước cần thiết để đạt được điều này?",
+    "category": "Lý luận thông thường",
+    "task_type": "common_reasoning",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Y tế",
+      "doc_type": "Thông tư",
+      "sign_number": "35/2018/TT-BYT"
+    }
+  },
+  {
+    "id": "Q195",
+    "query": "Các thư viện ở Việt Nam có thể hợp tác với nhau để chia sẻ tài nguyên thông tin như thế nào?",
+    "category": "Hỏi phạm vi áp dụng",
+    "task_type": "where",
+    "difficulty": "easy",
+    "metadata_hint": {
+      "issuing_agency": "Chính phủ",
+      "doc_type": "Nghị định",
+      "sign_number": "93/2020/NĐ-CP"
+    }
+  },
+  {
+    "id": "Q196",
+    "query": "Khi muốn lập kế hoạch bảo vệ môi trường, cơ quan liên quan cần xem xét những yếu tố gì?",
+    "category": "Lý luận thông thường",
+    "task_type": "common_reasoning",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Nông nghiệp và Phát triển nông thôn",
+      "doc_type": "Thông tư",
+      "sign_number": "17/2016/TT-BNNPTNT"
+    }
+  },
+  {
+    "id": "Q197",
+    "query": "Để trở thành công nhân bậc 5, người thợ mộc ô tô cần phải làm được những gì?",
+    "category": "Lý luận thông thường",
+    "task_type": "common_reasoning",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Quốc phòng",
+      "doc_type": "Thông tư",
+      "sign_number": "136/2017/TT-BQP"
+    }
+  },
+  {
+    "id": "Q198",
+    "query": "Tóm tắt nội dung của Điều 3 Thông tư 10/2016/TT-BKHĐT quy định chi tiết việc giám sát theo dõi kiểm tra hoạt động đấu thầu 2016 mới nhất",
+    "category": "Tóm tắt văn bản",
+    "task_type": "summary",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Kế hoạch và Đầu tư",
+      "doc_type": "Thông tư",
+      "sign_number": "10/2016/TT-BKHĐT"
+    }
+  },
+  {
+    "id": "Q199",
+    "query": "Làm thế nào để có thể vận hành thành thạo máy nén khí và nạp khí vào các chai chứa khí, bình chứa khí?",
+    "category": "Hỏi cách thức / quy trình",
+    "task_type": "how",
+    "difficulty": "medium",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Quốc phòng",
+      "doc_type": "Thông tư",
+      "sign_number": "134/2017/TT-BQP"
+    }
+  },
+  {
+    "id": "Q200",
+    "query": "Anh/chị cho em hỏi, công nhân kho vật tư xe - máy phải làm gì để đạt được bậc 3 theo Thông tư 136/2017/TT-BQP?",
+    "category": "Suy luận pháp lý",
+    "task_type": "legal_syllogism",
+    "difficulty": "hard",
+    "metadata_hint": {
+      "issuing_agency": "Bộ Quốc phòng",
+      "doc_type": "Thông tư",
+      "sign_number": "136/2017/TT-BQP"
+    }
+  }
+]
